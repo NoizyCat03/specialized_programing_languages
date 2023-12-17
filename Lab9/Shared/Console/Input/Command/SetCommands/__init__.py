@@ -1,0 +1,1 @@
+from Shared.Console.Input.Command.SetCommands.SetInputMessageCommand import SetInputMessageCommand

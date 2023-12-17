@@ -1,0 +1,6 @@
+from UI.MenuBuilder.Lab_3.Commands.SetCommands.ArtSetMessageCommand import ArtSetMessageCommand
+from UI.MenuBuilder.Lab_3.Commands.SetCommands.ArtSetJustifyCommand import ArtSetJustifyCommand
+from UI.MenuBuilder.Lab_3.Commands.SetCommands.ArtSetWidthCommand import ArtSetWidthCommand
+from UI.MenuBuilder.Lab_3.Commands.SetCommands.ArtSetSymbolCommand import ArtSetSymbolCommand
+from UI.MenuBuilder.Lab_3.Commands.SetCommands.ArtSetHeightCommand import ArtSetHeightCommand
+from UI.MenuBuilder.Lab_3.Commands.SetCommands.ArtSetFontCommand import ArtSetFontCommand

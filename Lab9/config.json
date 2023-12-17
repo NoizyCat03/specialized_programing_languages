@@ -1,0 +1,90 @@
+{
+  "name": "Special Programing Languages ",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "variables": {
+    "error": "Error: ",
+    "lab_2":{
+      "num_1": "Input number 1",
+      "num_2": "Input number 2",
+      "operator": "Input operator",
+      "custom_round": "Input custom_round"
+    },
+    "lab_3": {
+    "message": "Input message",
+    "height": "Input height",
+    "width": "Input width",
+    "justifies": "Input justifies",
+    "font": "Input font",
+    "color": "Input color",
+    "symbol": "Input symbol",
+    "scaling_status": "Do you want to set scaling(1/0:)",
+    "font_type": "Choose parameters"
+  },
+    "lab_4": {
+    "message": "Input message",
+    "height": "Input height",
+    "width": "Input width",
+    "direction": "Input direction",
+    "font": "Input font",
+    "color": "Input color",
+    "symbol": "Input symbol",
+    "scaling_status": "Do you want to set scaling(1/0:)",
+    "font_type": "Choose parameters"
+  },
+    "lab_5": {
+      "figure": {
+      "type": "Choose figure",
+      "types": "Choose figure type"
+      },
+      "size": {
+      "x": "Input size x",
+      "y": "Input size y",
+      "z": "Input size z"
+      },
+      "colors": {
+      "area_1": "Choose area 1",
+      "area_2": "Choose area 2",
+      "area_3": "Choose area 3",
+      "border": "Choose border color",
+      "shadow": "Choose shadow color"
+      },
+      "scaling": {
+      "value": "Input scaling"
+      }
+    },
+      "lab_7": {
+        "data": {
+          "type": "Input data type",
+          "custom": "Input custom data"
+        },
+        "site": "Input site",
+        "color": "Choose color",
+        "font": "Choose font",
+        "header_color": "Do you want to set header color (1/0:)",
+        "header_font": "Do you want to set header font (1/0:)",
+        "list": "LIST"
+      },
+    "lab_8": {
+        "data": {
+          "type": "Input data type",
+          "custom": "Input custom data"
+        },
+        "site": "Input site",
+        "color": "Choose color",
+        "font": "Choose font",
+        "header_color": "Do you want to set header color (1/0:)",
+        "header_font": "Do you want to set header font (1/0:)",
+        "list": "LIST"
+      }
+  }
+}
+
+
+
+
+
+
+
+
